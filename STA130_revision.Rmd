@@ -355,7 +355,7 @@ Which of these is a correct interpretation of the CI (149.3, 178.4)?
 
 A. We are 99% certain that each feminine character in Episodes 1 to 9 was between 149.3 and 178.4 cm tall.\
 B. We expect 99% of feminine characters in Episodes 1 to 9 to be between 149.3 and 178.4 cm tall.\
-D. We are 99% confident that the true mean height of feminine characters in Episodes 1 to 9 is between 149.3 and 178.4 cm.
+C. We are 99% confident that the true mean height of feminine characters in Episodes 1 to 9 is between 149.3 and 178.4 cm.
 
 \newpage
 
@@ -381,4 +381,4 @@ Which of the following statements about the above code is correct?
 
 A. The results are different ONLY because we haven't used the same set.seed() value.\
 B. The results are different because one sets replace=FALSE and so samples exactly the same observations as in the original sample, while the other set replace=TRUE and so some of the values can be duplicated or not selected into the sample at all.\
-C. The results are different because the mean of the bootstrap sampling distribution is the same as the mean height from our sample.
+C. The results are different because the mean of the bootstrap sampling distribution is not the same as the mean height from our sample.
